@@ -82,19 +82,19 @@ Random Forest \~0.65 \~0.52 \~0.64
 
 ### ROC Curve
 
-![ROC](imagens/viz_cell_4_2.png)
+![ROC](/images/viz_cell_4_2.png)
 
 ### Feature Importance
 
-![Importance](imagens/viz_cell_4_5.png)
+![Importance](/images/viz_cell_4_5.png)
 
 ### Elbow Method
 
-![Elbow](imagens/viz_cell_5_2.png)
+![Elbow](/images/viz_cell_5_2.png)
 
 ### Delay Map
 
-![Map](imagens/newplot.png)
+![Map](/images/newplot.png)
 
 ---
 
